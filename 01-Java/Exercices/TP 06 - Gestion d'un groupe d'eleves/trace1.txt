@@ -1,0 +1,76 @@
+
+---------------------------------------------------
+Classe : Classe Rouge
+   Instituteur : Julie Michot
+     avec :
+     Sidonie Amiral
+     Marius Amiral
+     Antoine Amiral
+     Marie Amiral
+     Eloise Amiral
+     Emilie Mariot
+     Amaury Mariot
+---------------------------------------------------
+
+---------------------------------------------------
+Classe : Classe Verte
+   Instituteur : Marcel Tanguy
+     avec :
+     Louis Duchemin
+     Marie Duchemin
+     Lucas Duchemin
+     Emie Lamartine
+     Tom Marchand
+     Leo Marchand
+     Simon Marchand
+     Pierre Durant
+---------------------------------------------------
+TRI DES ELEVES PAR PRENOMS
+
+---------------------------------------------------
+Classe : Classe Rouge
+   Instituteur : Julie Michot
+     avec :
+     Amaury Mariot
+     Antoine Amiral
+     Eloise Amiral
+     Emilie Mariot
+     Marie Amiral
+     Marius Amiral
+     Sidonie Amiral
+---------------------------------------------------
+
+---------------------------------------------------
+Classe : Classe Verte
+   Instituteur : Marcel Tanguy
+     avec :
+     Emie Lamartine
+     Leo Marchand
+     Louis Duchemin
+     Lucas Duchemin
+     Marie Duchemin
+     Pierre Durant
+     Simon Marchand
+     Tom Marchand
+---------------------------------------------------
+PARENTS DE LA CLASSE ROUGE
+Rachida Mariot
+Micheline Amiral
+
+DEPART DE Marie Duchemin de la classe verte
+
+---------------------------------------------------
+Classe : Classe Verte
+   Instituteur : Marcel Tanguy
+     avec :
+     Emie Lamartine
+     Leo Marchand
+     Lucas Duchemin
+     Marie Duchemin
+     Pierre Durant
+     Simon Marchand
+     Tom Marchand
+---------------------------------------------------
+
+RECUPERATION DE L'ELEVE D'INDEX 200 déclenchant une exception
+La classe ne contient que 7 élèves
